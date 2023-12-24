@@ -1,1 +1,2 @@
 fetch command execution
+git checkout origin/master -- 
